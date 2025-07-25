@@ -5,7 +5,7 @@ Please put in your API key into the code then run it in an IDE. - <b> line 5 </b
 - to make your API please follow this link - https://platform.openai.com/api-keys
 
 # testbot.py
-Was a 2nd code I made with chatgbt it operates smoother. 
+Was a 2nd code I made with chatgbt. It operates smoother. 
 
 # chatbot.py 
 Was the code I made following videos and debugging to increase my knowledge. 
